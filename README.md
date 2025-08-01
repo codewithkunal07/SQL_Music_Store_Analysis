@@ -82,17 +82,4 @@ For major changes, open an **issue** first to discuss what you would like to cha
 
 This project is licensed under the **[MIT License](LICENSE)**.
 
----
 
-<!-- Footer Banner -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
-
-<!-- Fun Footer -->
-
-<p align="center">
-  <i>💡 Pro Tip: If you love music and data, this project hits all the right notes! 🎶</i>
-</p>
-```
