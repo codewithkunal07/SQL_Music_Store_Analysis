@@ -76,7 +76,7 @@ This project analyzes an **online music store database** using **PostgreSQL** to
 Pull requests are welcome!
 For major changes, open an **issue** first to discuss what you would like to change.
 
----
+--
 
 ## 📜 License
 
