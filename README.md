@@ -19,7 +19,7 @@ This project analyzes an **online music store database** using **PostgreSQL** to
 
 💡 Key Features:  
 - 🎯 Identify **top‑selling artists** & albums.  
-- 📊 Discover **customer purchase patterns**.  
+- 📊 Discover **customer purchase patterns**. 
 - 🌍 Analyze **sales by country**.  
 - 💿 Find **most popular music genres**.
 
